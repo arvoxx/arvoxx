@@ -10,8 +10,8 @@ Currently learning and improving my skills in Django and backend architecture.
 
 ## 🛠 Tech Stack
 
+- 🌐 Web(with Django)
 - 🐍 Python
-- 🌐 Django
 - 🐘 PostgreSQL
 - 🗄 SQL Server
 - 🤖 Telegram Bot Development
