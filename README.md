@@ -20,6 +20,8 @@ Currently learning and improving my skills in Django and backend architecture.
 ## 📫 Contact
 
 - Email: itsarvox@gmail.com
+- Telegram: @itsarvox
+- Instagram: itsarvox
 
 ---
 
