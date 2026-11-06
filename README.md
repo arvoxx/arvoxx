@@ -4,7 +4,7 @@ I'm **Arvox**.
 
 ## 🚀 About Me
 
-Backend Developer passionate about building clean, scalable, and useful software.
+Full-Stack Developer passionate about building clean, scalable, and useful software.
 
 Currently learning and improving my skills in Django and backend architecture.
 
