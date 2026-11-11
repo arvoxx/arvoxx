@@ -22,6 +22,7 @@ Currently learning and improving my skills in Django and backend architecture.
 - Email: itsarvox@gmail.com
 - Telegram: @itsarvox
 - Instagram: itsarvox
+- Telgram Channel: @itsarvoxx
 
 ---
 
